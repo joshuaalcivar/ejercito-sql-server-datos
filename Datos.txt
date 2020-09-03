@@ -1,0 +1,20 @@
+insert into Cuartel values
+(1,'Cuarte General 25','Paraiso'),
+(2,'Cuartel General Rios','La Vega'),
+(3,'Cuartel General Paraiso','Los Mangos'),
+(4,'Cuartel General 30','Montalban'),
+(5,'Cuartel General 50','La Paz');
+
+insert into SERVICIOS_POR_CUARTEL values
+(1,101,'Naval','12 Meses'),
+(2,202,'Aereo','8 Meses'),
+(3,303,'Servicios Especiales','16 Meses'),
+(4,404,'Paracaidismo','7 Meses'),
+(5,505,'Ejercito','11 Meses');
+
+insert into SOLDADOS values
+(101,'Benjamin','Rada','Miami','0963568024'),
+(202,'Kelvis','Zambrano','San Francisco','0978633695'),
+(303,'Luis','Polo','New York','0999530143'),
+(404,'Miguel','Gimenez','Orlando','0987452401'),
+(505,'Brayan','Zamora','Las Vegas','0992699897');
